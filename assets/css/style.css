@@ -452,9 +452,9 @@ html {
     border: none;
     padding: 12px 17px;
     float: right;
-    -webkit-appearance: none;
-    -moz-appearance:    none;
-    appearance:         none;
+    -webkit-appearance: none !important;
+    -moz-appearance: none;
+    appearance: none;
 }
 
 .contact-form .form-submit-btn:hover {
