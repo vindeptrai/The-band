@@ -396,7 +396,7 @@ html {
     margin-top: 15px;
     border: none;
     appearance: none;
-    --webkit-appearance: none;
+    -webkit-appearance: none;
 }
 
 .place-buy-btn:hover {
