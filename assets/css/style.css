@@ -395,8 +395,6 @@ html {
     display: inline-block;
     margin-top: 15px;
     border: none;
-    appearance: none;
-    -webkit-appearance: none;
 }
 
 .place-buy-btn:hover {
@@ -454,6 +452,9 @@ html {
     border: none;
     padding: 12px 17px;
     float: right;
+    appearance: none;
+    -webkit-appearance: none;
+    border-radius: 0;
 }
 
 .contact-form .form-submit-btn:hover {
