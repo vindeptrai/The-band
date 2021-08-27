@@ -455,7 +455,7 @@ html {
     border-radius: 0;
     -webkit-appearance: none !important;
     -moz-appearance: none;
-    appearance: none;
+    appearance: none !important;
 }
 
 .contact-form .form-submit-btn:hover {
