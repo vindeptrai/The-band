@@ -23,11 +23,11 @@
    }
 
     #footer .social {
-       font-size: 45px;
+       font-size: 28px;
    }
 
    #footer .social a {
-       margin: 0 8px;
+       margin: 0 5px;
    }
 
    #footer .copy-right a {
@@ -39,6 +39,11 @@
 
 /* Tablet */
 @media (min-width: 740px) and (max-width: 1023px) {
+    
+}
+
+/* Mobile iphone 6 */
+@media (max-width: 400px) {
     
 }
 
